@@ -4,4 +4,5 @@ Tania Sosa tiene 35 años
 
 Es una aprendedora profesional
 
-Hoy esta aprendiendo a usar Git
+Hoy esta aprendiendo a usar Git junto con HTML y CSS 
+en su primer proyecto de la beca platzi
