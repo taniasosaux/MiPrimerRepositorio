@@ -1,3 +1,7 @@
 Esta es la historia de Tania.
 
 Tania Sosa tiene 35 años
+
+Es una aprendedora profesional
+
+Hoy esta aprendiendo a usar Git
