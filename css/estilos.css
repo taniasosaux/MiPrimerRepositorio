@@ -22,7 +22,7 @@ body
     font-weight: normal;
     font-size: 0.8em; 
 }
-#Container 
+#container 
 {
     width: 70%;
     padding: 1em;
@@ -31,7 +31,7 @@ body
     margin: 0 auto;
     color: blueviolet;
 }
-#Container h1 
+#container h1 
 {
     font-size: 20px;
     color: rgb(235, 12, 123);
